@@ -1,3 +1,4 @@
+#Isabelle Kenny
 def encode(password):
     arr = [int(x) for x in str(password)]
     i = len(arr)
